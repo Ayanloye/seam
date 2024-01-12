@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Feedback_ml-3 icon-sort side-icon</name>
+   <tag></tag>
+   <elementGuidId>3e1c3056-9ee3-4ed7-8158-261ddd6229d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.ml-3.icon-sort.side-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b8ff9b06-6c8b-4835-8e81-e4e7110ee957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-3 icon-sort side-icon</value>
+      <webElementGuid>aea7973d-731f-42d0-9880-9184f55c9c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/angle-down.svg</value>
+      <webElementGuid>0700519c-8bd7-4f70-876b-b06c0d79f19b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;purple-theme&quot;]/app-root[1]/app-auth[1]/div[@class=&quot;auth&quot;]/div[@class=&quot;sidebar showSideBar&quot;]/app-side-bar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;items&quot;]/div[@class=&quot;nav-links&quot;]/div[@class=&quot;nav-link&quot;]/img[@class=&quot;ml-3 icon-sort side-icon&quot;]</value>
+      <webElementGuid>81153844-f84e-4d56-ac3b-24d816ef32ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[2]</value>
+      <webElementGuid>92f50937-334b-42b6-a89c-1502805d05b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/angle-down.svg']</value>
+      <webElementGuid>fa3de74e-09b5-4590-aadb-d5f13a4fed46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

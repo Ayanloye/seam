@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Download</name>
+   <tag></tag>
+   <elementGuidId>aa2c918a-e717-44c1-ba70-850942290b96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.modal-btn > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-content']/div[2]/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a6c81bf5-a022-4044-9b40-e3e9018be7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download</value>
+      <webElementGuid>262c02e5-b374-46cd-9512-c1eb3a17f13e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;export-modal&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@id=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;modal-btn&quot;]/span[1]</value>
+      <webElementGuid>86e8816f-d3ce-43dc-b678-b22be4048450</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-content']/div[2]/button[2]/span</value>
+      <webElementGuid>c02f099f-2214-49ec-9896-8bb51910aaa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]/span</value>
+      <webElementGuid>33d578d7-35c0-4cc2-8167-17b607f2098a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Download' or . = 'Download')]</value>
+      <webElementGuid>eaeb4356-89e5-4985-8fdb-beefa239d4b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

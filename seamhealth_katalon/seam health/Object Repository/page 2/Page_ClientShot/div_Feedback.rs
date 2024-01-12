@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Feedback</name>
+   <tag></tag>
+   <elementGuidId>ceeb0122-e2a4-444e-af50-65ec6cb47b01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-side-bar/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1552908c-5b9f-4193-b460-ea780db48369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>0a222b5c-6fb4-46a3-b557-5d0aec2e950a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Feedback</value>
+      <webElementGuid>dedb0c49-d4e1-4586-87db-1ad5acc0b7b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;purple-theme&quot;]/app-root[1]/app-auth[1]/div[@class=&quot;auth&quot;]/div[@class=&quot;sidebar showSideBar&quot;]/app-side-bar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;items&quot;]/div[@class=&quot;nav-links&quot;]/div[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>cb8aefb6-9205-4de6-aeb3-6f3d350db736</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-side-bar/div/div[2]/div/div[2]</value>
+      <webElementGuid>b0a4e6b4-a6ae-4bce-8093-386205b4a137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Feedback' or . = 'Feedback')]</value>
+      <webElementGuid>bdba8bfa-d3dc-486c-982e-d5035a2a1ffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

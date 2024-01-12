@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Date Range_custom-img</name>
+   <tag></tag>
+   <elementGuidId>7c7f9862-eecf-4b43-8ccd-71e410a26dd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.custom-img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-content']/div/div[2]/form/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cf8cfe24-4ac9-4be4-a3d0-ed87618cbc04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../../assets/icons/filter-down.svg</value>
+      <webElementGuid>fd958c02-347e-4816-9e56-6ad3ecce610f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-img</value>
+      <webElementGuid>ed00e87e-a9bd-43c0-a6b1-a2c797bef625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;export-modal&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@id=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;custom-select&quot;]/img[@class=&quot;custom-img&quot;]</value>
+      <webElementGuid>24135110-8d33-4e63-a95c-9b41ae1b58f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-content']/div/div[2]/form/div/div/img</value>
+      <webElementGuid>eb908c59-baba-41fd-b52a-4ca33274e8b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/img</value>
+      <webElementGuid>c5ae4de3-f704-4e47-a798-e6f27b2ad198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../../assets/icons/filter-down.svg']</value>
+      <webElementGuid>4b541110-3dfd-45aa-88c9-decfed57c0dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

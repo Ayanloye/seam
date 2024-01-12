@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_11</name>
+   <tag></tag>
+   <elementGuidId>d050da25-8862-4d05-a727-517481e8cdd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.items.current</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-content']/div/div[2]/form/div[3]/app-date-picker/div/div[2]/div/div[3]/div[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>058d3c6d-6408-44ff-bbbd-903ddb021326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>items current</value>
+      <webElementGuid>00b90592-d793-4279-98db-056d3b861dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 11 </value>
+      <webElementGuid>fbd321fc-fa17-45c4-ba69-0f8ea54e3aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;export-modal&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@id=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;form-group&quot;]/app-date-picker[1]/div[@class=&quot;date-component&quot;]/div[@class=&quot;parent&quot;]/div[@class=&quot;date-picker&quot;]/div[@class=&quot;date&quot;]/div[@class=&quot;items current&quot;]</value>
+      <webElementGuid>3fcc6be3-c0ea-4820-b9d1-dd7ed01557f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-content']/div/div[2]/form/div[3]/app-date-picker/div/div[2]/div/div[3]/div[12]</value>
+      <webElementGuid>c20a9c16-a1fd-48d1-af7e-175b7edb9091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]</value>
+      <webElementGuid>828f7233-7a9a-46ef-a1e5-26843479b667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 11 ' or . = ' 11 ')]</value>
+      <webElementGuid>f305274d-99e0-4f08-9fa5-0260d2b8d892</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
